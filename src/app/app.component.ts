@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  quoteme = 'Watch Finding Nemo'
+  quoteme:string[];
+
+  constructor(){
+    this.quoteme = ['I love Reggae songs', 'I love my life', 'I like walking alone']
+  } 
 }
