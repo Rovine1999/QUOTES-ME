@@ -1,4 +1,3 @@
-#
 #### Rovine Sydney Wanjala, 05/11/2020
 #### By Rovine Wanjala
 ## Description
